@@ -1,6 +1,11 @@
-.card {
-    background-color: theme('colors.white');
-    border-radius: theme('borderRadius.lg');
-    padding: theme('spacing.6');
-    box-shadow: theme('boxShadow.xl');
+#tasks{
+  ul{
+    li{
+      svg{
+        width: 50px;
+        height: 25px;
+        color: red;
+      }
+    }
   }
+}
