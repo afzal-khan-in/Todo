@@ -17,6 +17,7 @@ document.getElementById("submit-task").onclick = function () {
      </li>
       `;
   }
+  document.getElementById("task-input").value = "";
   /* End Add task */
   var currentTask = document.querySelectorAll("#delete-task");
 
