@@ -1,0 +1,8 @@
+.card {
+  background-color: theme("colors.white");
+  border-radius: theme("borderRadius.lg");
+  padding: theme("spacing.6");
+  -webkit-box-shadow: theme("boxShadow.xl");
+          box-shadow: theme("boxShadow.xl");
+}
+/*# sourceMappingURL=styles.css.map */
